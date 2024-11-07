@@ -8,10 +8,10 @@ Popularity Score: A metric indicating the track's popularity
 Audio Features: Danceability, Energy, Loudness, Acousticness, Valence, and other metrics
 Explicit Content: Indicator of whether a track contains explicit content
 Project Steps
-1. Data Loading and Initial Inspection
-We began by loading the dataset and inspecting its structure to understand its columns, types, and the general shape of the data.
+1. Data Loading and Initial Inspection :
+I began by loading the dataset and inspecting its structure to understand its columns, types, and the general shape of the data.
 
-2. Data Cleaning
+2. Data Cleaning :
 The data cleaning process involved:
 
 Dropping irrelevant columns (e.g., unnamed index columns).
